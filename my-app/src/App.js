@@ -1,11 +1,11 @@
 import logo from './logo.svg';
 import './App.css';
-import NestingComponents from './components/NestingComponents';
+import ControlledForm from './components/ControlledForm';
 
 function App() {
   return (
     <div className="App">
-      <NestingComponents />
+      <ControlledForm />
     </div>
   );
 }

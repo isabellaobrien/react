@@ -1,11 +1,11 @@
 import logo from './logo.svg';
 import './App.css';
-import ControlledForm from './components/ControlledForm';
+import Searchbar from './components/Searchbar';
 
 function App() {
   return (
     <div className="App">
-      <ControlledForm />
+      <Searchbar />
     </div>
   );
 }

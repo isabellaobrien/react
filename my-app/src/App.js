@@ -1,13 +1,13 @@
 import logo from './logo.svg';
 import './App.css';
-import Searchbar from './components/Searchbar';
+import UseStateWithArrays from './components/UseStateWithArrays';
 
 function App() {
-  return (
-    <div className="App">
-      <Searchbar />
-    </div>
-  );
+    return (
+      <div className="App">
+          <UseStateWithArrays />
+      </div>
+    );
 }
 
 export default App;
